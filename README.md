@@ -16,7 +16,9 @@ Este proyecto tiene un Dockerfile para levantar MySQL en un contenedor de forma 
 <img width="557" height="152" alt="imagencorriendo" src="https://github.com/user-attachments/assets/ec5f85d0-ddf8-4ea4-9ab3-baab57505759" />
 
 3. Verificación de que el contenedor esté corriendo
-<img width="1077" height="102" alt="estado" src="https://github.com/user-attachments/assets/fe64af54-e817-4269-ad04-ebbdb2fd72fa" />
+<img width="1285" height="129" alt="REAL" src="https://github.com/user-attachments/assets/c3977bc2-ced4-41af-a00a-3cea986d606d" />
+
+
 
 
 
