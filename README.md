@@ -12,7 +12,7 @@ Este proyecto tiene un Dockerfile para levantar MySQL en un contenedor de forma 
 1. Construcción de la imagen
 <img width="1288" height="301" alt="Imagen_Construida_Correctamente" src="https://github.com/user-attachments/assets/0a550e63-541e-4c17-97de-948aa07c7793" />
 
-2. Creación y ejecución del contenedor
+2. Ver las imágenes disponibles en Docker
 <img width="557" height="152" alt="imagencorriendo" src="https://github.com/user-attachments/assets/ec5f85d0-ddf8-4ea4-9ab3-baab57505759" />
 
 3. Verificación de que el contenedor esté corriendo
